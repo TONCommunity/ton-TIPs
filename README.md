@@ -5,10 +5,15 @@
 #### Test network——05.2019
 
  ✅ TON Wallet
+ 
  ✅ Website Design
+ 
  ✅ Website Dev
+ 
  ✅ Technology Research
+ 
  ✅ Community Dev
+ 
  ✅ Create Community
 
 #### Test network——05.2020.05
