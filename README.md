@@ -51,9 +51,9 @@ Secure. Privacy. Powerful.
 
 
 
-🌊 Website: https://toncommunity.org
+ 🌊 Website: https://toncommunity.org
  💻 Github: https://github.com/toncommunity
  👪 Telegram Group: https://t.me/ton_en
 
-🔈 Telegram Channel: http://t.me/ton_news
+ 🔈 Telegram Channel: http://t.me/ton_news
  🙋 Twitter: https://twitter.com/TONCommunity
