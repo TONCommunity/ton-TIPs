@@ -4,57 +4,57 @@
 
 - #### Test network——05.2019
   
-  - [x] ##### TON Wallet
+  - [x] TON Wallet
   
-  - [x] ##### Website Design
+  - [x] Website Design
   
-  - [x] ##### Website Dev
+  - [x] Website Dev
   
-  - [x] ##### Technology Research
+  - [x] Technology Research
   
-  - [x] ##### Community Dev
+  - [x] Community Dev
   
-  - [x] ##### Create Community
+  - [x] Create Community
 
 - #### Test network——05.2020
   
-  - [x] ##### Network Conﬁguration
+  - [x] Network Conﬁguration
   
-  - [x] ##### Support iOS / Android / Windows / macOS Wallet App
+  - [x] Support iOS / Android / Windows / macOS Wallet App
   
-  - [x] ##### TON Community Blockchain Roadmap
+  - [x] TON Community Blockchain Roadmap
   
-  - [x] ##### Test Network Launch——Testnet3
+  - [x] Test Network Launch——Testnet3
 
 - #### Test network——Q3.2020
   
-  - [ ] ##### Network Monitor
+  - [ ] Network Monitor
   
-  - [ ] ##### Token Economics
+  - [ ] Token Economics
 
 - #### Test network——Q4.2020
   
-  - [ ] ##### ton-lib, like go, C++, python etc.
+  - [ ] ton-lib, like go, C++, python etc.
   
-  - [ ] ##### Private Main Net(POA)
+  - [ ] Private Main Net(POA)
   
-  - [ ] ##### Governance Rule(TON DAO)
+  - [ ] Governance Rule(TON DAO)
 
 - #### Main network——Q1.2021
   
-  - [ ] ##### Main Network Launch
+  - [ ] Main Network Launch
   
-  - [ ] ##### TON Synthetic Assets: tonUSD
+  - [ ] TON Synthetic Assets: tonUSD
 
 - #### Main network——Q2.2021
   
-  - [ ] ##### Deﬁ Contest
+  - [ ] Deﬁ Contest
   
-  - [ ] ##### TON Synthetic Assets: tonBTC、tonETH
+  - [ ] TON Synthetic Assets: tonBTC、tonETH
 
 - #### Main network——Q3Q4.2021
   
-  - [ ] ##### TON DEX for Telegram users
+  - [ ] TON DEX for Telegram users
 
 ---
 
