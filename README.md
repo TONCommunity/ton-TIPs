@@ -16,7 +16,7 @@
  
  ✅ Create Community
 
-#### Test network——05.2020.05
+#### Test network——05.2020
 
  ✅ Network Conﬁguration
  
@@ -60,6 +60,8 @@
 ---
 
 Secure. Privacy. Powerful.
+
+
 
  🌊 Website: https://toncommunity.org
  
