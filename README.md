@@ -28,7 +28,7 @@
 
 #### Test network——Q3.2020
 
- ☑ Network Monitor
+ ✅ Network Monitor
  
  ☑ Token Economics
 
@@ -39,7 +39,7 @@
  ☑ Private Main Net(POA)
  
 
- ☑ Governance Rule(TON DAO)
+ ✅ Governance Rule(TON DAO)
 
 #### 💎 Main network——Q1.2021
 
